@@ -45,10 +45,3 @@ This analysis could help educators and students better understand which lifestyl
 
 Cortez, P. (2008). *Student Performance [Dataset]*. UCI Machine Learning Repository. [https://doi.org/10.24432/C5TG7T](https://doi.org/10.24432/C5TG7T)
 
----
-
-## 📁 Files
-
-- `student_performance_analysis.ipynb` – Jupyter notebook with full code
-- `plots/` – Folder containing visualizations (optional)
-- `README.md` – Project summary
